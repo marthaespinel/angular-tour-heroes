@@ -8,4 +8,9 @@ import { Hero } from 'src/app/hero';
 })
 export class HeroesComponent {
 
+  hero: Hero= {
+    id: 1
+    name: "Solo Man"
+  }
+
 }
