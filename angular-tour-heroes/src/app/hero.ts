@@ -8,7 +8,7 @@ class hero{
     name: string;
 
     constructor( id: number,name: string){
-       this.id= id;
+       this.id= id
        this.name= name;
     }
 }
