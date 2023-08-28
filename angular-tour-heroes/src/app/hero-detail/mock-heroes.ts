@@ -14,8 +14,3 @@ export const HEROES: Hero[] = [
   { id: 11, name: 'Black Panther', imagen:'assets/images/black panther.jpg'},
   { id: 12, name: 'Deadpool', imagen: 'assets/images/deadpool.jpg'}
 ];
-
-
-
-  
-
